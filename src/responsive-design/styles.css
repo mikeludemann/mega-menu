@@ -1,0 +1,27 @@
+.dropdown-menu {
+  top: 98%;
+  border-radius: 0;
+  margin: 0;
+  border: 0px solid transparent;
+  border-top: 1px solid #fff;
+}
+
+.dropdown-menu a:hover {
+  text-decoration: underline;
+  background-color: transparent;
+}
+
+.navbar-toggler{
+  width: 47px;
+  height: 34px;
+  background-color: transparent;
+  border: 1px solid #fff !important;
+}
+
+.navbar-toggler .line{
+  width: 100%;
+  float: left;
+  height: 2px;
+  background-color: #fff;
+  margin-bottom: 5px;
+}
